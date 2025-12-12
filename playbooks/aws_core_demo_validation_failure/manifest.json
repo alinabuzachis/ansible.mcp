@@ -2,7 +2,7 @@
   "awslabs.core-mcp-server": {
     "type": "stdio",
     "command": "uvx",
-    "args": ["awslabs.core-mcp-server@latest"],
+    "args": ["awslabs.core-mcp-server@2025.11.20251121220339"],
     "description": "AWS Core MCP Server - Gateway to AWS MCP servers including Knowledge Server"
   }
 }
